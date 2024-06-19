@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![image](https://github.com/jangels/jangels/assets/3808396/468fd30c-1d97-475c-b119-8137ac4add4f)
 
 Arch,  Art,  Shaper
